@@ -1,5 +1,3 @@
 # e2e-demo
-
-`npm install`
-
-`npm run test`
+### 巩效义 硕9074 3119305692
+[被测试代码https://github.com/ylongly7/XJTUSE_AgileWeb_Assignment5_reacttodolist](https://github.com/ylongly7/XJTUSE_AgileWeb_Assignment5_reacttodolist)
